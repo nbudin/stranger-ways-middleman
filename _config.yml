@@ -3,5 +3,7 @@ name: Stranger Ways
 description:
 markdown: redcarpet
 permalink: pretty
+
+exclude: ['Gemfile', 'Gemfile.lock']
 gallery:
   dir: photos
