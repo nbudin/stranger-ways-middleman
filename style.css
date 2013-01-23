@@ -1,0 +1,118 @@
+/*
+Theme Name: Stranger Ways 2011
+Theme URI: http://stranger-ways.com/
+Description: The "Twenty Ten" theme customized for stranger-ways.com
+Author: Nat Budin
+Template: twentyten
+Version: 1.0
+*/
+
+@import url("twentyten-style.css");
+@import url("lyrics.css");
+@import url("http://fonts.googleapis.com/css?family=EB+Garamond");
+
+.one-column #content {
+	width: auto;
+}
+
+#wrapper {
+	margin-top: 16px;
+}
+
+body {
+	background-image: linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
+	background-image: -o-linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
+	background-image: -moz-linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
+	background-image: -webkit-linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
+	background-image: -ms-linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
+
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		right top,
+		color-stop(0, #000000),
+		color-stop(0.5, #999999),
+		color-stop(1, #000000)
+	);
+}
+
+#header {
+	padding: 10px 0 0 0;
+}
+
+#site-title {
+	display: none;
+
+	/* old sw.com title stuff */
+	font-size: 100px;
+	line-height: 100px;
+        letter-spacing: -7px;
+	margin: 0 0 0 0;
+        text-shadow: #000 0px 0px 5px;
+        white-space: nowrap;
+}
+
+#site-title a {
+	font-weight: normal;
+}
+
+#site-description {
+	display: none;
+	margin: 14px 0 18px 0;
+}
+
+#branding img {
+	border-top: 0;
+	clear: both;
+	float: none;
+}
+
+#access a {
+    font-size: 25px;
+}
+
+#access a, .widget-title, #wp-calendar caption, #site-info, #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+    font-family: EB Garamond, Garamond, Adobe Garamond, serif;
+}
+
+#content .entry-title {
+    font-size: 40px;
+}
+
+.page-link {
+    clear: none;
+}
+
+.widget-title {
+    font-size: 20px;
+    padding-bottom: 4px;
+    text-align: left;
+}
+
+#wp-calendar caption {
+    font-size: 20px;
+}
+
+#site-info {
+    font-weight: normal !important;
+}
+
+/* Special styles for stranger ways site */
+
+#content table.album-tracks tr td {
+  font-family: sans-serif;
+  vertical-align: middle;
+  font-size: 90%;
+}
+
+#content table.album-tracks tr th {
+   vertical-align: middle;
+}
+
+
+a.album { display: inline-block; width: 114px; background-color: #eee; border: 1px #666 solid; padding: 1em; border-radius: 0.5em; margin-bottom: 0.5em; color: #333; text-decoration: none; margin: 0.5em; }
+a.album img { width: 112px !important; height: 112px !important; }
+a.album:visited { color: black; }
+a.album:hover { background-color: #f8f8f8; border-color: #333; color: #000; }
+#lyrics-list { float: right; width: 300px; }
+#albums { float: left; }
