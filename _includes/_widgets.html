@@ -15,23 +15,19 @@
 
 <p style="margin-top: 2px"><a href="http://strangerways.bandcamp.com/album/strangers-at-the-gate"><i>Strangers at the Gate</i> - 2011</a></p></div>
 		</li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest News</h3>		<ul>
-					<li>
-				<a href="/2012/12/duel-of-the-concept-albums-sassafrass-and-stranger-ways-at-arisia-2013/" title="Duel of the Concept Albums: Sassafrass and Stranger Ways at Arisia 2013!">Duel of the Concept Albums: Sassafrass and Stranger Ways at Arisia 2013!</a>
-						</li>
-					<li>
-				<a href="/2011/12/site-updates-preview-of-our-next-album-new-photos-lyrics-section/" title="Site updates: preview of our next album, new photos, lyrics section!">Site updates: preview of our next album, new photos, lyrics section!</a>
-						</li>
-					<li>
-				<a href="/2011/12/sassafrass-stranger-ways-arisia-2012/" title="Sassafrass + Stranger Ways @ Arisia 2012 [UPDATED: TWO SHOWS]">Sassafrass + Stranger Ways @ Arisia 2012 [UPDATED: TWO SHOWS]</a>
-						</li>
-					<li>
-				<a href="/2011/07/stranger-pi-stranger-ways-at-6pi-con/" title="Stranger Pi: Stranger Ways at 6Pi-Con">Stranger Pi: Stranger Ways at 6Pi-Con</a>
-						</li>
-					<li>
-				<a href="/2011/02/susans-going-away-concert-party/" title="Susan&#8217;s Going-Away Concert &amp; Party">Susan&#8217;s Going-Away Concert &#038; Party</a>
-						</li>
+      {% for post in site.posts limit:5 %}
+      <li>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
 				</ul>
 		</li><li id="text-3" class="widget-container widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><a href="mailto:info@stranger-ways.com">info@stranger-ways.com</a></div>
-		</li><li id="text-5" class="widget-container widget_text">			<div class="textwidget"><!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Stranger-Ways/111927082201681" target="_TOP" title="Stranger Ways"><img src="http://badge.facebook.com/badge/111927082201681.609.1279471520.png" width="120" height="165" style="border: 0px; margin-left: 20px;" /></a><!-- Facebook Badge END --></div>
-		</li>			</ul>
+		</li><li id="text-5" class="widget-container widget_text">			
+      <div class="textwidget">
+        <a href="https://twitter.com/stranger_ways" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @stranger_ways</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Stranger-Ways/111927082201681" target="_TOP" title="Stranger Ways"><img src="http://badge.facebook.com/badge/111927082201681.609.1279471520.png" width="120" height="165" style="border: 0px; margin-left: 20px;" /></a><!-- Facebook Badge END -->
+    </div>
+    </li>
+    </ul>
 		</div><!-- #primary .widget-area -->

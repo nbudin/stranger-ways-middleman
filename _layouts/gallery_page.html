@@ -1,0 +1,27 @@
+---
+layout: page
+---
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  margin: 0.5em;
+  position: relative;
+  text-align: center;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <a name="{{ image }}" />
+        <a href="{{ image }}"><img class="gallery-image" src="thumbs/{{ image }}" /></a>
+    </div>
+{% endfor %}

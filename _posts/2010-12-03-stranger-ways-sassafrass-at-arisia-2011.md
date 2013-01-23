@@ -8,7 +8,7 @@ categories:
 ---
 [<img title="Sassafrass & Stranger Ways Arisia Logo" src="/images/Sassafrass-and-Stranger-Ways-Arisia.jpg" alt="" width="343" height="230" />][1]
 
-**Where: **[Arisia 2011][2] at the Westin Waterfront Hotel, Boston, MA  
+**Where:** [Arisia 2011][2] at the Westin Waterfront Hotel, Boston, MA  
 **When:** Saturday, January 15, 2011 · noon – 2:00pm  
 *(Note: time has changed from original announcement.  The concert will start at noon, not 11:00.)*  
 [**RSVP on Facebook**][3]

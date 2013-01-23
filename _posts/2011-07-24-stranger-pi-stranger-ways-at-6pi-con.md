@@ -8,7 +8,7 @@ categories:
 ---
 ![Stranger Ways at 6Pi-Con][1]
 
-**Where: **[6Pi-Con][2] at the Holiday Inn Enfield-Springfield, Enfield, CT  
+**Where:** [6Pi-Con][2] at the Holiday Inn Enfield-Springfield, Enfield, CT  
 **When:** Sunday, August 28, 2011 · 1:00 – 2:00 pm
 
 [RSVP on Facebook][3]

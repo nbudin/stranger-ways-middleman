@@ -3,3 +3,5 @@ name: Stranger Ways
 description:
 markdown: redcarpet
 permalink: pretty
+gallery:
+  dir: photos

@@ -6,8 +6,8 @@ permalink: /2012/12/duel-of-the-concept-albums-sassafrass-and-stranger-ways-at-a
 categories:
   - Shows
 ---
-**Where: **[Arisia 2013][1] at the Westin Boston Waterfront, Boston, MA  
-**When:** Saturday, January 19, 2013 · 12:00 – 2:00 pm
+**Where:** [Arisia 2013][1] at the Westin Boston Waterfront, Boston, MA  
+**When:** Saturday, January 19, 2013 · 12:00 – 2:00 pm
 
 [RSVP on Facebook][2]
 
