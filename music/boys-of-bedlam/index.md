@@ -5,8 +5,8 @@ layout: lyrics
 ---
 Traditional
 
-**Listen to it:** <a href="http://strangerways.bandcamp.com/track/boys-of-bedlam" target="_blank">Strangers at the Gate</a>, <a href="http://strangerways.bandcamp.com/track/boys-of-bedlam-live" target="_blank">Guilt, Angst & Fairy Tales (live)</a>**  
-Watch it: **<a href="http://www.youtube.com/watch?v=aUSUQkAygJg&list=PL817AC17588C2A051&index=1&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=jWuwP3ggtMk&list=PLE2BDB948181C7A2B&index=1&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>, <a href="http://www.youtube.com/watch?v=skTkktFkIDY&list=PLB4383B36578F1B20&index=4&feature=plpp_video" target="_blank">End of Summer 2010</a>
+**Listen to it:** <a href="http://strangerways.bandcamp.com/track/boys-of-bedlam" target="_blank">Strangers at the Gate</a>, <a href="http://strangerways.bandcamp.com/track/boys-of-bedlam-live" target="_blank">Guilt, Angst & Fairy Tales (live)</a><br/>
+**Watch it:** <a href="http://www.youtube.com/watch?v=aUSUQkAygJg&list=PL817AC17588C2A051&index=1&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=jWuwP3ggtMk&list=PLE2BDB948181C7A2B&index=1&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>, <a href="http://www.youtube.com/watch?v=skTkktFkIDY&list=PLB4383B36578F1B20&index=4&feature=plpp_video" target="_blank">End of Summer 2010</a>
 
 For to see mad Tom of Bedlam  
 Ten thousand miles I’d travel  

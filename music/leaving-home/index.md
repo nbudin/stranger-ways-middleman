@@ -29,7 +29,7 @@ Show me love me, show me I’m home, show me a smile
   <strong>Chorus</strong>
 </p>
 
-****You are my GM team, you are my band  
+You are my GM team, you are my band  
 When I make bad jokes, when I tell my stories, you understand  
 My chosen family, the ones I hold dear  
 Wherever I go, wherever I wind up, my heart is here

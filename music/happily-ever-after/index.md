@@ -5,11 +5,12 @@ layout: lyrics
 ---
 by Nat Budin and Susan Weiner, with arrangement inspiration from Marnen Laibow-Koser
 
-**Listen to it: **<a href="http://strangerways.bandcamp.com/track/happily-ever-after" target="_blank">Strangers at the Gate</a>  
-**Watch it:** <a href="http://www.youtube.com/watch?v=rTi5KVT7ipU&list=PL817AC17588C2A051&index=10&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=IrhOuL9HlG4&list=PLE2BDB948181C7A2B&index=8&feature=plpp_video" target="_blank">Susan’s Going Away Party</a>, <a href="http://www.youtube.com/watch?v=pF92V736DjY&list=PLB4383B36578F1B20&index=2&feature=plpp_video" target="_blank">End of Summer 2010</a>
+**Listen to it:** <a href="http://strangerways.bandcamp.com/track/happily-ever-after" target="_blank">Strangers at the Gate</a><br/>
+**Watch it:** <a href="http://www.youtube.com/watch?v=rTi5KVT7ipU&list=PL817AC17588C2A051&index=10&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=IrhOuL9HlG4&list=PLE2BDB948181C7A2B&index=8&feature=plpp_video" target="_blank">Susan’s Going Away Party</a>, <a href="http://www.youtube.com/watch?v=pF92V736DjY&list=PLB4383B36578F1B20&index=2&feature=plpp_video" target="_blank">End of Summer 2010</a>
 
-**Guitar chords  
-**Am9 = 005500  
+**Guitar chords**
+
+Am9 = 005500  
 Am7 = 002010  
 E9sus4 = 004430  
 Esus4(add9) = 004400  

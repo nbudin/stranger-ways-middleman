@@ -8,7 +8,8 @@ by Susan Weiner
 **Listen to it:** <a href="http://strangerways.bandcamp.com/track/zombies-ahead" target="_blank">Strangers at the Gate</a>, <a href="http://strangerways.bandcamp.com/track/zombies-ahead-live" target="_blank">Guilt, Angst & Fairy Tales (live)</a>  
 **Watch it:** <a href="http://www.youtube.com/watch?v=hDVHpicljgU&list=PL817AC17588C2A051&index=13&feature=plpp_video" target="_blank">Arisia 2011</a> (feat. Sassafrass), <a href="http://www.youtube.com/watch?v=dfLBEIQdetg&list=PLE2BDB948181C7A2B&index=4&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a> (feat. Sassafrass), <a href="http://www.youtube.com/watch?v=1g1P9dVkl1A&list=PLB4383B36578F1B20&index=1&feature=plpp_video" target="_blank">End of Summer 2010</a>
 
-<pre><strong>Guitar chords </strong>Riff:     D7 D  D  D7 D  D  D7 D     D7 D     D7 D        (x3)
+<pre><strong>Guitar chords </strong>
+Riff:     D7 D  D  D7 D  D  D7 D     D7 D     D7 D        (x3)
           1  .  +  .  2  .  +  .  3  .  +  .  4  .  +  .
           C        C        A        A        A
 

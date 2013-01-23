@@ -6,7 +6,7 @@ layout: lyrics
 by <a href="http://michelledockrey.com" target="_blank">Michelle Dockrey</a> (aka Vixy of <a href="http://vixyandtony.com" target="_blank">Vixy and Tony</a>)  
 originally performed by <a href="http://cyphertext.net/escapekey" target="_blank">Escape Key</a>
 
-**Listen to it: **<a href="http://strangerways.bandcamp.com/track/the-girl-thats-never-been" target="_blank">Guilt, Angst & Fairy Tales</a>
+**Listen to it:** <a href="http://strangerways.bandcamp.com/track/the-girl-thats-never-been" target="_blank">Guilt, Angst & Fairy Tales</a>
 
 We can’t publish the lyrics for copyright reasons, but Escape Key has posted lyrics and chords <a href="http://cyphertext.net/escapekey/NeverBeen.txt" target="_blank">on their web site</a>.
 

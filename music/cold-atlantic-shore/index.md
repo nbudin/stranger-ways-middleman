@@ -5,10 +5,11 @@ layout: lyrics
 ---
 by Susan Weiner
 
-**Listen to it:** <a href="http://strangerways.bandcamp.com/track/cold-atlantic-shore" target="_blank">Strangers at the Gate</a>, <a href="/august-2010-demo-recordings/" target="_blank">August 2010 Demo</a>**  
-Watch it:** <a href="http://www.youtube.com/watch?v=WVXBuOQIPMc&list=PL817AC17588C2A051&index=9&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=8A_aXhp-v4w&list=PLE2BDB948181C7A2B&index=10&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>
+**Listen to it:** <a href="http://strangerways.bandcamp.com/track/cold-atlantic-shore" target="_blank">Strangers at the Gate</a>, <a href="/august-2010-demo-recordings/" target="_blank">August 2010 Demo</a><br/>
+**Watch it:** <a href="http://www.youtube.com/watch?v=WVXBuOQIPMc&list=PL817AC17588C2A051&index=9&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=8A_aXhp-v4w&list=PLE2BDB948181C7A2B&index=10&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>
 
-<pre><strong>Verse:</strong>  | Em   D   | Em       | C       | Em       |
+<pre><strong>Verse:</strong>
+        | Em   D   | Em       | C       | Em       |
         | C        | Em       | A       | B7       |
         | Em   D   | Em       | C       | Em       |
                               +-VERSE A-------------
@@ -16,7 +17,8 @@ Watch it:** <a href="http://www.youtube.com/watch?v=WVXBuOQIPMc&list=PL817AC175
                               +-VERSE B------------------------
                               | A       | B7       | B7       |
 
-<strong>Chorus:</strong> | Em   D   | Em       | C       | Em       |
+<strong>Chorus:</strong> 
+        | Em   D   | Em       | C       | Em       |
         | C        | Em       | A       | B7       |
         | Em   D   | Em       | C       |(6/4) D   Em   D    |
   (4/4) | Em       | Em   D   | Em      |</pre>

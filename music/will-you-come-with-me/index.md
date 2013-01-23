@@ -6,7 +6,7 @@ layout: lyrics
 by Susan Weiner and Nat Budin
 
 **Listen to it:** <a href="http://strangerways.bandcamp.com/album/strangers-at-the-gate" target="_blank">Strangers at the Gate</a> (bonus track), <a href="http://strangerways.bandcamp.com/track/will-you-come-with-me" target="_blank">Guilt, Angst & Fairy Tales</a>  
-**Watch it: **<a href="http://www.youtube.com/watch?v=Mlf2Zwj0fzk&list=PL817AC17588C2A051&index=11&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=iaPVcRw55rk&list=PLE2BDB948181C7A2B&index=3&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>
+**Watch it:** <a href="http://www.youtube.com/watch?v=Mlf2Zwj0fzk&list=PL817AC17588C2A051&index=11&feature=plpp_video" target="_blank">Arisia 2011</a>, <a href="http://www.youtube.com/watch?v=iaPVcRw55rk&list=PLE2BDB948181C7A2B&index=3&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>
 
 <pre><strong>Guitar chords </strong>
 (Capo 2; song is in B minor, chord shapes written below)

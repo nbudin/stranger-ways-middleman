@@ -5,10 +5,12 @@ layout: lyrics
 ---
 by Nat Budin, based on <a href="http://www.traditionalmusic.co.uk/folk-song-lyrics/Captain_Coulston.htm" target="_blank">a traditional song</a>
 
-**Listen to it:** <a href="http://strangerways.bandcamp.com/track/captain-coulston" target="_blank">Guilt, Angst & Fairy Tales</a>
+**Listen to it:** <a href="http://strangerways.bandcamp.com/track/captain-coulston" target="_blank">Guilt, Angst & Fairy Tales</a>
 
-<pre><strong>Guitar chords </strong>* = transition to verse: 20XXXX followed by 10XXXX
-<strong> </strong>Chorus: | G      | D       | Em      | Bm      |
+<pre><strong>Guitar chords </strong>
+  * = transition to verse: 20XXXX followed by 10XXXX
+  
+Chorus: | G      | D       | Em      | Bm      |
         | C      | Em      | Am      | B7      |
         | G      | D       | Em      | Bm      |
         | C      | Em      | A    D  | G   *   |
