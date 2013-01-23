@@ -2,11 +2,14 @@
 layout: page
 ---
 {% for gallery in page.galleries %}
-<div style="width: 35em; text-align: center; padding: 1em 0 4em 0;">
+<div style="width: 15em; text-align: center; padding: 1em 0 4em 0; display: inline-block;">
     <a href="{{ gallery['gallery'] }}">
         <img style="max-height: 20em; max-width: 20em;" src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
     </a>
-    <h3><a href="{{ gallery['gallery'] }}" style="text-transform: capitalize;">{{ gallery["name"] | split: '-' | join: ' ' | capitalize }}</a></h3>
-    {{ gallery["images"] | size }} images
+    <h3>
+      <a href="{{ gallery['gallery'] }}" style="text-transform: capitalize;">{{ gallery["name"] | split: '-' | join: ' ' | capitalize }}</a>
+      <br/>
+      <em>{{ gallery["images"] | size }} images</em>
+    </h3>
 </div>
 {% endfor %}
