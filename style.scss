@@ -116,7 +116,12 @@ a.album img { width: 112px !important; height: 112px !important; }
 a.album:visited { color: black; }
 a.album:hover { background-color: #f8f8f8; border-color: #333; color: #000; }
 #lyrics-list { float: right; width: 300px; }
-#albums { float: left; }
+#albums { 
+  margin-right: 310px; 
+  h2 {
+    display: inline-block;
+  }
+}
 
 a.verse-email {
   border: 1px #666 solid;

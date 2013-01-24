@@ -10,7 +10,7 @@ gallery:
 
 navigation:
   - text: Home
-    url: /
+    url: ''
   - text: Videos
     url: http://www.youtube.com/user/StrangerWaysMusic
   - text: Music
