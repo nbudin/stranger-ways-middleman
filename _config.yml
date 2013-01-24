@@ -7,3 +7,17 @@ permalink: pretty
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 gallery:
   dir: photos
+
+navigation:
+  - text: Home
+    url: /
+  - text: Videos
+    url: http://www.youtube.com/user/StrangerWaysMusic
+  - text: Music
+    url: /music
+  - text: Photos
+    url: /photos
+  - text: Shows
+    url: /shows
+  - text: The Band
+    url: /about
