@@ -18,9 +18,6 @@ layout: one-column
   
   <ul>
     <li>
-      <a href="/strangers-at-the-gate-sample/">Two sample tracks from Strangers at the Gate</a>
-    </li>
-    <li>
       <a href="/august-2010-demo-recordings/">August 2010 demo recordings</a>
     </li>
   </ul>
