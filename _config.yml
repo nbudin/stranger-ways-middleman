@@ -4,6 +4,6 @@ description:
 markdown: redcarpet
 permalink: pretty
 
-exclude: ['Gemfile', 'Gemfile.lock']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 gallery:
   dir: photos
