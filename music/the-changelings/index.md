@@ -5,7 +5,7 @@ layout: lyrics
 ---
 by Nat Budin and Susan Weiner
 
-**Listen to it:** <a href="http://strangerways.bandcamp.com/track/the-changelings" target="_blank">Guilt, Angst & Fairy Tales</a>
+**Listen to it:** <a href="http://strangerways.bandcamp.com/track/the-changelings" target="_blank">Guilt, Angst & Fairy Tales</a><br/>
 **Watch it:** <a href="http://www.youtube.com/watch?v=jgX47jdDtU0&list=PLE2BDB948181C7A2B&index=2&feature=plpp_video" target="_blank">Susan’s Going-Away Party</a>
 
 <pre><strong>Guitar Chords</strong>
