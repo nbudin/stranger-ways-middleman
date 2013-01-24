@@ -4,7 +4,7 @@ author: Nat
 layout: page
 ---
 <p style="text-align: justify;">
-  <a href="/images/IMG_5398.jpg"><img class="size-medium wp-image-164 alignright" title="IMG_5398" src="/images/IMG_5398-200x300.jpg" alt="" width="200" height="300" /></a>Stranger Ways is a dark modern folk band based in greater Boston.  We play a mix of traditional and original music with heavy harmonies and a macabre sense of humor.
+  <a href="/photos/stranger-ways-2.0"><img class="size-medium wp-image-164 alignright" title="Stranger Ways 2.0 in an elevator" src="/photos/stranger-ways-2.0/thumbs/IMG_5398.jpg" /></a>Stranger Ways is a dark modern folk band based in greater Boston.  We play a mix of traditional and original music with heavy harmonies and a macabre sense of humor.
 </p>
 
 <p style="text-align: justify;">
