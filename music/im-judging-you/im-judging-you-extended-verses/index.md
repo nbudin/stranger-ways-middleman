@@ -197,6 +197,13 @@ It’s so hard to wait its true, but if you listen I’ll tell you
 I won’t yell, so listen well!  
 I’m judging you.
 
+**On students (cont'd)** - *by Sharone H-H*<br/>
+The directions you ignore, though I explained them all before<br/>
+I'm judging you, I'm judging you<br/>
+So of course you get a D, now you're arguing with me<br/>
+Yes, it's fair, please don't swear<br/>
+And I'm judging you.
+
 **On tabletop RPGs** - *by Jon Sagotsky*<br/>
 You’ve got more dice than you can count; epic wizard, dragon mount.  
 I’m judging you, I’m judging you  
