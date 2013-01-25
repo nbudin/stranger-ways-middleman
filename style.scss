@@ -7,10 +7,10 @@ Template: twentyten
 Version: 1.0
 */
 
-@import url("twentyten-style.css");
-@import url("lyrics.css");
-@import url("http://fonts.googleapis.com/css?family=EB+Garamond");
 @import "bourbon/bourbon";
+@import "twentyten-style";
+@import "lyrics";
+@import url("http://fonts.googleapis.com/css?family=EB+Garamond");
 
 .one-column #content {
 	width: auto;
@@ -88,10 +88,6 @@ body {
     font-size: 20px;
     padding-bottom: 4px;
     text-align: left;
-}
-
-#wp-calendar caption {
-    font-size: 20px;
 }
 
 #site-info {

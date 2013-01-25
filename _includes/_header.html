@@ -4,25 +4,7 @@
 <meta charset="UTF-8" />
 <title>{{ page.title }} | Stranger Ways</title>
 <link rel="stylesheet" type="text/css" media="all" href="/style.css" />
-<script type="text/javascript" src="/degradable-html5-audio-and-video/incl/audio-player.js"></script>
-
-<script type="text/javascript">
-
-	AudioPlayer.setup("/degradable-html5-audio-and-video/incl/player.swf", {
-
-		/* Format the player by inserting lines here. See http://wpaudioplayer.com/standalone */
-
-		width: 290,
-
-		initialvolume: 80
-
-	});
-
-</script>
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="blog" />
-<meta property="og:title" content="Stranger Ways" />
-<meta property="og:url" content="/" />
+<meta property="og:title" content="{{ page.title }}" />
 <meta property="og:site_name" content="Stranger Ways" />
 </head>
 
@@ -48,7 +30,7 @@
                     {% for link in site.navigation %}
                       {% capture canonical_link_url %}{{ link.url }}/index.html{% endcapture %}
                       <li class="menu-item menu-item-type-custom menu-item-object-custom {% if page.url == canonical_link_url %}current-menu-item current_page_item{% endif %}">
-                        <a  href="{{ link.url }}">{{ link.text }}</a>
+                        <a  href="{{ link.url }}/">{{ link.text }}</a>
                       </li>
                     {% endfor %}
 </ul></div>			</div><!-- #access -->

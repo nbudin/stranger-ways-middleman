@@ -90,7 +90,7 @@ I’m judging me
 
 **De Julius Caesar** - *per Alyssa.  English translation by Emily L.*
 
-<table style="border: 0; border-collapse: collapse; width: 100%;">
+<table style="border: 0; border-collapse: collapse; width: 100%; margin-bottom: 1em">
   <tr>
     <td style="padding: 0; border: 0;">
       Cum in Gallia pugnas, et de omnibus scribas,<br /> Iudico te, iudico te<br /> Omnes feminas amas, et in Idus lacrimas,<br /> Res est lex, tu non rex<br /> Iudico te!
