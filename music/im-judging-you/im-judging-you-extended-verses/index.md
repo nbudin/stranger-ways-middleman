@@ -88,6 +88,13 @@ But I know I do half this shit – guess I’m just a hypocrite
 Crowds applaud, I’m a fraud  
 I’m judging me
 
+**On the intersection of mobile phones and retail** - *by Sharone H-H and Terry H*<br/>
+In the grocery line you wait, on your phone expostulate<br/>
+I'm judging you, I'm judging you<br/>
+The cashier wants to ring you up, so your call she must disrupt<br/>
+Don't get mad, that's just sad<br/>
+And I'm judging you
+
 **De Julius Caesar** - *per Alyssa.  English translation by Emily L.*
 
 <table style="border: 0; border-collapse: collapse; width: 100%; margin-bottom: 1em">
