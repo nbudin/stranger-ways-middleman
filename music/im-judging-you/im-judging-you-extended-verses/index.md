@@ -151,6 +151,13 @@ You’ve attempted to reach “interesting,” but just arrived at “trite”
 Have some class – you’re an ass  
 I’m judging you
 
+**On polemic** - *by Jared H*<br/>
+When I see your Facebook status is a huge, long-winded rant<br/>
+And you want your whole damn Friends' List to accept your biased slant<br/>
+No, I don't care who you voted for, and think I always shan't<br/>
+"Vote Ron Paul"? Not at all!<br/>
+I'm just judging you.
+
 **On polyamory** – *by Sami G*<br/>
 When you think it’s oh so great that your sweeties number eight  
 I’m judging you, I’m judging you  
