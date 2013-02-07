@@ -3,38 +3,30 @@
 <head>
 <meta charset="UTF-8" />
 <title>{{ page.title }} | Stranger Ways</title>
-<link rel="stylesheet" type="text/css" media="all" href="/style.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:site_name" content="Stranger Ways" />
 </head>
 
-<body class="home page page-id-8 page-template-default">
-<div id="wrapper" class="hfeed">
-	<div id="header">
-		<div id="masthead">
-			<div id="branding" role="banner">
-								<h1 id="site-title">
-					<span>
-						<a href="/" title="Stranger Ways" rel="home">Stranger Ways</a>
-					</span>
-				</h1>
-				<div id="site-description"></div>
+<body>
+<div class="container-fluid">
+	<div id="header" class="row-fluid">
+			<img src="/images/sw2.0-banner-21.jpg" width="940" height="198" alt="stranger-ways" />
 
-										<img src="/images/sw2.0-banner-21.jpg" width="940" height="198" alt="" />
-								</div><!-- #branding -->
-
-			<div id="access" role="navigation">
-			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-								<div class="menu-header">
-                  <ul id="menu-navigation" class="menu">
-                    {% for link in site.navigation %}
-                      {% capture canonical_link_url %}{{ link.url }}/index.html{% endcapture %}
-                      <li class="menu-item menu-item-type-custom menu-item-object-custom {% if page.url == canonical_link_url %}current-menu-item current_page_item{% endif %}">
-                        <a  href="{{ link.url }}/">{{ link.text }}</a>
-                      </li>
-                    {% endfor %}
-</ul></div>			</div><!-- #access -->
-		</div><!-- #masthead -->
-	</div><!-- #header -->
-
-	<div id="main">
+			<div class="navbar">
+				<div class="navbar-inner">
+          <ul class="nav">
+            {% for link in site.navigation %}
+              {% capture canonical_link_url %}{{ link.url }}/index.html{% endcapture %}
+              <li {% if page.url == canonical_link_url %}class="active"{% endif %}>
+                <a href="{{ link.url }}/">{{ link.text }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+		</div>
+	</div>
+</div>

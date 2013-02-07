@@ -1,33 +1,32 @@
-		<div id="primary" class="widget-area" role="complementary">
-			<ul class="xoxo">
+<h3>Albums</h3>
 
-<li id="text-6" class="widget-container widget_text"><h3 class="widget-title">Albums</h3>			<div class="textwidget"><p style="text-align: center; margin-bottom: 2px;"><a href="http://strangerways.bandcamp.com/album/guilt-angst-fairy-tales"><img src="/images/GAFT-cover-final-112x112.jpg" alt="" title="Guilt, Angst &amp; Fairy Tales Cover" style="border: 0; width: 112px; height: 112px;" class="size-thumbnail wp-image-176" /></a></p>
+<div style="text-align: center;">
+  <p>
+    <a href="http://strangerways.bandcamp.com/album/guilt-angst-fairy-tales"><img src="/images/GAFT-cover-final-112x112.jpg" alt="" title="Guilt, Angst &amp; Fairy Tales Cover" style="border: 0; width: 112px; height: 112px;" /></a>
+    <br/>
+    <a href="http://strangerways.bandcamp.com/album/guilt-angst-fairy-tales"><i>Guilt, Angst &amp; Fairy Tales</i> - 2012</a>
+  </p>
+  
+  <p>
+    <a href="http://strangerways.bandcamp.com/album/strangers-at-the-gate"><img src="/images/Stranger-Ways-CD-Cover-150x150.jpg" style="border: 0; width: 112px; height: 112px;"/></a>
+    <br/>
+    <a href="http://strangerways.bandcamp.com/album/strangers-at-the-gate"><i>Strangers at the Gate</i> - 2011</a>
+  </p>
+</div>
 
+<h3>Latest News</h3>
+<ul>
+  {% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
 
+<h3>Contact Us</h3>
+<p><a href="mailto:info@stranger-ways.com">info@stranger-ways.com</a></p>
 
-<p style="margin-top: 2px"><a href="http://strangerways.bandcamp.com/album/guilt-angst-fairy-tales"><i>Guilt, Angst & Fairy Tales</i> - 2012</a></p>
+<a href="https://twitter.com/stranger_ways" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @stranger_ways</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-
-
-<p style="text-align: center; margin-bottom: 2px;"><a href="http://strangerways.bandcamp.com/album/strangers-at-the-gate"><img src="/images/Stranger-Ways-CD-Cover-150x150.jpg" style="border: 0; width: 112px; height: 112px;"/></a></p>
-
-
-
-<p style="margin-top: 2px"><a href="http://strangerways.bandcamp.com/album/strangers-at-the-gate"><i>Strangers at the Gate</i> - 2011</a></p></div>
-		</li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest News</h3>		<ul>
-      {% for post in site.posts limit:5 %}
-      <li>
-        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-      </li>
-      {% endfor %}
-				</ul>
-		</li><li id="text-3" class="widget-container widget_text"><h3 class="widget-title">Contact Us</h3>			<div class="textwidget"><a href="mailto:info@stranger-ways.com">info@stranger-ways.com</a></div>
-		</li><li id="text-5" class="widget-container widget_text">			
-      <div class="textwidget">
-        <a href="https://twitter.com/stranger_ways" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @stranger_ways</a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        <!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Stranger-Ways/111927082201681" target="_TOP" title="Stranger Ways"><img src="http://badge.facebook.com/badge/111927082201681.609.1279471520.png" width="120" height="165" style="border: 0px; margin-left: 20px;" /></a><!-- Facebook Badge END -->
-    </div>
-    </li>
-    </ul>
-		</div><!-- #primary .widget-area -->
+<!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Stranger-Ways/111927082201681" target="_TOP" title="Stranger Ways"><img src="http://badge.facebook.com/badge/111927082201681.609.1279471520.png" width="120" height="165" style="border: 0px; margin-left: 20px;" /></a><!-- Facebook Badge END -->
