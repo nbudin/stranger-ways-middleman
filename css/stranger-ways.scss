@@ -7,10 +7,12 @@ Template: twentyten
 Version: 1.0
 */
 
-@import "bourbon/bourbon";
-@import "twentyten-style";
-@import "lyrics";
+@import "./lyrics";
 @import url("http://fonts.googleapis.com/css?family=EB+Garamond");
+
+.footer {
+  padding-top: 1em;
+}
 
 .one-column #content {
 	width: auto;
@@ -21,6 +23,8 @@ Version: 1.0
 }
 
 body {
+  background-color: black;
+  
 	background-image: linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
 	background-image: -o-linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
 	background-image: -moz-linear-gradient(left , #000000 0%, #999999 50%, #000000 100%);
@@ -35,6 +39,61 @@ body {
 		color-stop(0.5, #999999),
 		color-stop(1, #000000)
 	);
+  
+  @media (max-width: 767px) {
+    background-image: none;
+    background-color: white;
+  }
+  
+  font-family: Georgia, serif;
+}
+
+.container, .container-fluid {
+  background-color: white;
+  max-width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.navbar-inner {
+  background-color: black;
+  background-image: none;
+  
+  @media (max-width: 767px) {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+.navbar .nav {
+  &> li > a {
+    color: #aaa;
+    text-shadow: none;
+    font-size: 25px;
+    
+    @media (max-width: 767px) {
+      font-size: 18px;
+      padding: 8px 10px;
+    }
+    
+    &:hover {
+      background-color: #333;
+      background-image: none;
+      color: #ddd;
+    }
+  }
+  
+  &> .active > a {
+    background-color: transparent;
+    background-image: none;
+    color: white;
+    
+    &:hover {
+      background-color: #333;
+      background-image: none;
+      color: white;
+    }
+  }
 }
 
 #header {
@@ -72,8 +131,8 @@ body {
     font-size: 25px;
 }
 
-#access a, .widget-title, #wp-calendar caption, #site-info, #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
-    font-family: EB Garamond, Garamond, Adobe Garamond, serif;
+h1, h2, h3, h4, h5, h6, .footer, .navbar {
+  font-family: EB Garamond, Garamond, Adobe Garamond, serif;
 }
 
 #content .entry-title {
@@ -129,5 +188,5 @@ a.verse-email {
   color: black;
   text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
   
-  @include linear-gradient( #d8d8d8, #e8e8e8 20%, #ddd );
+  /*@include linear-gradient( #d8d8d8, #e8e8e8 20%, #ddd );*/
 }

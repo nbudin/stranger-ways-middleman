@@ -1,0 +1,16 @@
+.lyrics {
+  p, ul, ol, dd, pre, hr {
+    margin-bottom: 14px;
+  }
+
+  pre {
+  	font-size: 12px;
+  	line-height: 14px;
+  
+    @media (max-width: 767px) {
+      font-size: 10px;
+      line-height: 12px;
+    }
+  }
+}
+

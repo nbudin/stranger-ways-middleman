@@ -9,7 +9,7 @@ layout: lyrics
 
 *[I’m Judging You][1] has turned out to represent some universal experiences for our listeners.  Even before releasing the song, we had written a sizable number of alternate verses, and after we began performing it, fans started writing their own.  We’ve collected as many of them as we can here.*
 
-<a class="verse-email" href="mailto:info@stranger-ways.com?subject=I'm Judging You verse">I wrote a verse!  Please put it here.</a>
+<a class="btn btn-primary" href="mailto:info@stranger-ways.com?subject=I'm Judging You verse">I wrote a verse!  Please put it here.</a>
 
 **On boarding subways** - *by Diana Hsu*<br/>
 When you’re waiting at the station with increasing consternation  
@@ -239,6 +239,6 @@ There’s two girls but just one cup, never gonna give you up
 Snakes on plane, Chocolate Rain  
 I’m Rickrolling you
 
-<a class="verse-email" href="mailto:info@stranger-ways.com?subject=I'm Judging You verse">I wrote a verse!  Please put it here.</a>
+<a class="btn btn-primary" href="mailto:info@stranger-ways.com?subject=I'm Judging You verse">I wrote a verse!  Please put it here.</a>
 
  [1]: /music/im-judging-you/ "I’m Judging You"
