@@ -12,7 +12,7 @@ navigation:
   - text: Home
     url: ''
   - text: Videos
-    url: http://www.youtube.com/user/StrangerWaysMusic
+    url: http://www.youtube.com/user/StrangerWaysMusic/featured
   - text: Music
     url: /music
   - text: Photos
