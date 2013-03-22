@@ -232,6 +232,13 @@ Got yourself a nasty virus, watching porn of Miley Cyrus
 Format C:, Red Hat’s free  
 I’m judging you
 
+**On truck drivers** - *by Emily L*<br/>
+When you're driving in your truck and you just don't give a fuck<br/>
+I'm judging you, I'm judging you<br/>
+There are others driving too, though they are smaller than you<br/>
+You're a toad.  Share the road!<br/>
+I'm judging you
+
 **On YouTube** - *by Diana Hsu and Nat Budin*<br/>
 When you stay online too late, watching pandas masturbate  
 I’m judging you, I’m judging you  
