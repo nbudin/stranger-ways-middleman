@@ -69,8 +69,12 @@ Well darling if you loved me, you would leave me with my heart
 So I make you no promises of what I plan to do  
 As long as you have my heart I never will leave you  
 This creaky dock is writhing from the cold Atlantic Shore  
-And if you’ve heard this song, I’m not sitting here no more
+And if you’ve heard this song, I’m not sitting here<sup>*</sup> no more
 
 <p style="padding-left: 30px;">
   <strong>Chorus</strong>
 </p>
+
+<hr/>
+
+<p><sup>*</sup> On <em>Strangers at the Gate</em>, this lyric is mis-sung as "there."  Thanks to Mark Mandel for the correction.</p>
