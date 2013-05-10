@@ -204,6 +204,13 @@ I did not expect to see your plus one and two and three
 Dis my booze – wipe your shoes!  
 I’m judging you
 
+**On social dinners** - *by Alexandria Wilkie*<br/>
+When you dine out with your friends, wrangling payment never ends<br/>
+I'm judging you, I'm judging you<br/>
+You incite all of my wrath with your sad attempts at math<br/>
+You can't add, the waiter's mad<br/>
+And I'm judging you
+
 **On students** - *by Emily L*<br/>
 When you ask what’s on the quiz or query what the homework is  
 I’m judging you, I’m judging you  
