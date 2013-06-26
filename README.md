@@ -1,5 +1,7 @@
 # stranger-ways.com
 
+Copyright &copy; 2011-2013 Stranger Ways, all rights reserved.
+
 stranger-ways.com is a [Jekyll](https://github.com/mojombo/jekyll) site.  It's statically compiled to HTML, then uploaded to Amazon S3 and served from there using the CloudFront content distribution network.  This should mean it's lightning-fast and basically impossible to hack using the usual means (because nothing is running server-side).
 
 ## Installing Jekyll and its friends
