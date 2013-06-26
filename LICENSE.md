@@ -1,3 +1,3 @@
-stranger-ways.com and all content contained therein are copyright (c) 2011-2013 Stranger Ways.  All rights reserved.
+stranger-ways.com and all content contained therein are copyright &copy; 2011-2013 Stranger Ways.  All rights reserved.
 
 The Jekyll and Ruby code contained in this repository are provided for educational purposes only.  If you find something you'd like to use, please email info@stranger-ways.com to request permission.  We are nice people and will probably say yes, but all rights are reserved. :)
