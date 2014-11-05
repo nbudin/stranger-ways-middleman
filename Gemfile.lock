@@ -59,7 +59,7 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
     redcarpet (2.1.1)
-    rmagick (2.13.1)
+    rmagick (2.13.3)
     safe_yaml (0.7.1)
     sass (3.2.5)
     simple-cloudfront-invalidator (1.0.0)
