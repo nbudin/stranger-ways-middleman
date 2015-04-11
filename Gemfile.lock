@@ -33,11 +33,20 @@ GEM
     excon (0.45.1)
     execjs (2.5.2)
     ffi (1.9.8)
+    fog (1.22.1)
+      fog-brightbox
+      fog-core (~> 1.22)
+      fog-json
+      ipaddress (~> 0.5)
+      nokogiri (~> 1.5, >= 1.5.11)
     fog-aws (0.1.2)
       fog-core (~> 1.27)
       fog-json (~> 1.0)
       fog-xml (~> 0.1)
       ipaddress (~> 0.8)
+    fog-brightbox (0.0.2)
+      fog-core
+      fog-json
     fog-core (1.30.0)
       builder
       excon (~> 0.45)
@@ -165,6 +174,7 @@ PLATFORMS
 
 DEPENDENCIES
   builder (~> 3.0)
+  fog
   middleman (~> 3.3.10)
   middleman-blog (~> 3.5.3)
   middleman-s3_sync
