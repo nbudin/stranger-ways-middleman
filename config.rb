@@ -97,6 +97,13 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+activate :s3_sync do |s3_sync|
+  s3_sync.bucket                     = 'www.stranger-ways.com'
+  s3_sync.aws_access_key_id          = ENV['AWS_ACCESS_KEY_ID']
+  s3_sync.aws_secret_access_key      = ENV['AWS_SECRET_ACCESS_KEY']
+  s3_sync.reduced_redundancy_storage = true
+end
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
