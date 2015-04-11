@@ -1,0 +1,13 @@
+---
+title: Shows
+layout: page
+---
+
+<% blog.tags['shows'].each do |article| %>
+  <h2 class="entry-title"><%= link_to article.data.title, article.url %></h2>
+  <span class="entry-meta">Posted on <time datetime="<%= article.date.xmlschema %>"><%= article.date.to_date.to_s(:long) %></time></span>
+  <div class="entry-summary">
+    <p><%= article.summary %></p>
+    <%= link_to "Continue reading →", article.url %>
+  </div>
+<% end %>

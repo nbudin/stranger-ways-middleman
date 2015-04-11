@@ -1,12 +1,12 @@
-source "http://rubygems.org"
+# If you have OpenSSL installed, we recommend updating
+# the following line to use "https"
+source 'http://rubygems.org'
 
-gem "jekyll"
-gem "jekyll-sass"
-gem "jekyll-s3"
+gem "middleman", "~> 3.3.10"
+gem "middleman-blog", "~> 3.5.3"
 
-# for the photo gallery plugin
-gem "exifr"
-gem "rmagick", :require => nil
+gem "middleman-simple-thumbnailer"
+gem "nokogiri"  # needed for blog post summaries
 
-gem "redcarpet"
-gem "bourbon"
+# For feed.xml.builder
+gem "builder", "~> 3.0"

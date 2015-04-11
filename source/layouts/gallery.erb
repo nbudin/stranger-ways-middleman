@@ -1,0 +1,15 @@
+<% wrap_layout "one-column" do %>
+  <ul class="thumbnails">
+    <% gallery_path = current_page.path.gsub(/index.html\z/, '') %>
+    <% current_page.data.images.each do |image| %>
+      <% image_path = "/#{gallery_path}#{image}" %>
+      <li class="span4">
+        <div class="thumbnail">
+          <% link_to image_path do %>
+            <% image_tag image_path, resize_to: "267x400" %>
+          <% end %>
+        </div>
+      </li>
+    <% end %>
+  </ul>
+<% end %>

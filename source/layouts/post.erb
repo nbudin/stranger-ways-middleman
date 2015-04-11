@@ -1,0 +1,15 @@
+<% wrap_layout :layout do %>
+  <div class="container-fluid">
+    <div class="span8">
+      <h1 class="entry-title"><%= current_article.title %></h1>
+
+      <div class="entry-content">
+        <%= yield %>
+      </div>
+    </div>
+  
+    <div class="span3 offset1">
+      <%= partial "layouts/widgets" %>
+    </div>
+  </div>
+<% end %>

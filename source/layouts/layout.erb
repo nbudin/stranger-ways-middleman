@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title><%= ' - ' + current_page.data.title unless current_page.data.title.nil? %> | Stranger Ways</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<%= stylesheet_link_tag "bootstrap.min", media: "screen" %>
+<%= stylesheet_link_tag "bootstrap-responsive", media: "screen" %>
+<%= stylesheet_link_tag "stranger-ways", media: "screen" %>
+<meta property="og:title" content="<%= current_page.data.title %>" />
+<meta property="og:site_name" content="Stranger Ways" />
+</head>
+
+<body>
+  <div class="container-fluid">
+  	<div id="header" class="row-fluid">
+        <%= image_tag "sw2.0-banner-21.jpg", alt: "Stranger Ways" %>
+
+  			<div class="navbar">
+  				<div class="navbar-inner">
+            <ul class="nav">
+              <%= navbar_item "Home", "/", current_page %>
+              <%= navbar_item "Videos", "http://www.youtube.com/user/StrangerWaysMusic/featured", current_page %>
+              <%= navbar_item "Music", "/music", current_page %>
+              <%= navbar_item "Photos", "/photos", current_page %>
+              <%= navbar_item "Shows", "/shows", current_page %>
+              <%= navbar_item "The Band", "/about", current_page %>
+            </ul>
+          </div>
+        </div>
+  		</div>
+  	</div>
+  </div>
+  
+  <%= yield %>
+  
+  <div class="container-fluid footer">
+    <div class="span12">
+      All band photography &copy; Viktoriya Fuzaylova except where otherwise noted.
+    </div>
+  </div>
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+</body>
+</html>
