@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
 <meta charset="UTF-8" />
-<title><%= current_page.data.title %><% ' | ' unless current_page.data.title.nil? %>Stranger Ways</title>
+<title><%= current_page.data.title %><%= ' | ' unless current_page.data.title.nil? %>Stranger Ways</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <%= stylesheet_link_tag "bootstrap.min", media: "screen" %>
 <%= stylesheet_link_tag "bootstrap-responsive", media: "screen" %>
