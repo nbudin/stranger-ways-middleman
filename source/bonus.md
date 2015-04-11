@@ -3,7 +3,7 @@ title: Bonus Material!
 author: Nat
 layout: page
 ---
-Thank you for purchasing our album, *Strangers at the Gate *- we really appreciate your support!  During the process of making the album, there was some material that just couldn’t make it in time for one reason or another.
+Thank you for purchasing our album, *Strangers at the Gate* - we really appreciate your support!  During the process of making the album, there was some material that just couldn’t make it in time for one reason or another.
 
 We’ve now recorded one of those songs and have released it here as bonus material for your listening and downloading pleasure. Enjoy!
 
@@ -24,7 +24,7 @@ We’ve now recorded one of those songs and have released it here as bonus mater
     </td>
     
     <td>
-      <a href="/images/Will-You-Come-With-Me.mp3">MP3</a> <a href="/images/Will-You-Come-With-Me.ogg">Ogg</a> <a href="/images/Will-You-Come-With-Me.m4a">AAC</a>
+      <a href="/bonus/Will-You-Come-With-Me.mp3">MP3</a> <a href="/bonus/Will-You-Come-With-Me.ogg">Ogg</a> <a href="/bonus/Will-You-Come-With-Me.m4a">AAC</a>
     </td>
   </tr>
 </table>
