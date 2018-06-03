@@ -13,3 +13,6 @@ gem "middleman-s3_sync"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
+
+# To get older Middleman to work on newer Ruby
+gem 'xmlrpc'

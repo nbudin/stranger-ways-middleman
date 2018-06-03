@@ -168,6 +168,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.6)
+    xmlrpc (0.3.0)
 
 PLATFORMS
   ruby
@@ -180,6 +181,7 @@ DEPENDENCIES
   middleman-s3_sync
   middleman-simple-thumbnailer
   nokogiri
+  xmlrpc
 
 BUNDLED WITH
    1.16.1
