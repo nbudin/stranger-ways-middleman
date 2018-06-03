@@ -16,3 +16,4 @@ gem "builder", "~> 3.0"
 
 # To get older Middleman to work on newer Ruby
 gem 'xmlrpc'
+gem 'net-ssh'

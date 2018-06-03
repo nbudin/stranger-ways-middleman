@@ -78,13 +78,13 @@ activate :middleman_simple_thumbnailer
 helpers do
   def navbar_item(title, url, page)
     canonical_path = "/#{page.path}".gsub(/index\.html\z/, '')
-    
+
     li_attrs = if canonical_path == url
       { class: "active" }
     else
       {}
     end
-    
+
     content_tag(:li, li_attrs) do
       link_to title, url
     end
